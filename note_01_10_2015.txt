@@ -1,0 +1,51 @@
+Note họp:
+- Lấy yêu cầu
+- Anh Trung, Thắng, Khải
+- Website:
+- VOV làm theo mô hình sunflower.vn
+- Wordpress xài nhanh vì nó là trang thông tin, không phải là trang e-commerce
+- tạo cuốn nhật ký trên google note
+   + hôm qua làm được gì, hôm nay làm gì, problem
+- cần có sitemap tổng thể - link đến gì -> a.Trung
+    + bên đối tác chuẩn bị resources (ảnh, info)
+	+ anh Trung dẫn đi xem chi tiết những thứ sẽ làm sắp tới
+	
+- yêu cầu bên anh Trung:
+    + triển khai fm cảm xúc
+    + có hệ thống camera cho phòng thu
+	+ ý tưởng chạy fmcamxuc.vn -> 
+	+ nghe online
+	+ tương tác được với mc trong phòng thu
+	+ nghe & xem live
+	+ chat trực tiếp & được mc có thể trả lời ngay
+	+ tin cập nhật của kênh: vd khách mời sắp tới
+	+ kênh có các chương trình trong kênh
+	+ home là trang điều hướng - tin hot, tin cập nhật của các trong thành viên
+	+ hỗ trợ thiết kế phần lịch phát sóng sao lcho nhanh nhất
+	+ chức năng comment qua nhiều kênh facebook, google+,...
+	+ home cho biết chương trình đang chạy trực tiếp
+	+ mỗi chương trình có một kênh để thông báo info 
+	+ làm trang chính + show
+	+ nội dung bên a Trung chuẩn bị, mình lo phần code, xử lý
+	+ hiện tại là gọi qua điện thoại phòng thu
+	+ cho tính năng comment ở dưới phần video live
+	+ phần comment online hay offline cũng được, nhưng liên kết trực với trang của trang tương ứng
+	+ cung cấp chức năng nghe lại các chương trình, tổ chức lại giao diện, lưu mp3
+	+ phần nghe lại tương ứng với từng trang
+	+ trang lớn lấy một số thông tin đang chạy ở trang nhỏ
+	
+	
+	+ giải quyết chat, thông tin cập nhật
+	+ trang chủ biết chương trình đang chạy
+	+ muốn được vừa nghe radio vừa thấy hình luôn, xem trên di động được
+	+ bài toán cnd, dynamic web
+	+ radiovietnam đang bị treo
+	
+	
+	+ nghiên cứu công nghệ triển khai video
+	+ listen.bectoradio.com
+	+ beta.fmcamxuc.vn
+	+ radiovietnam.vn
+
+- thầy đang mở rộng hệ thống R&D và cần người hỗ trợ
+- thầy gợi ý cho khách hàng cái nào ưu tiên làm trước (quan trọng)
